@@ -111,7 +111,7 @@ export default function Home() {
 
                   <div className="flex items-center space-x-4">
                     <img
-                      src="https://pbs.twimg.com/profile_images/1467449059636125696/-MLGNlSj_400x400.jpg"
+                      src="https://pbs.twimg.com/profile_images/1472142550731571205/soY8MW5w_400x400.jpg"
                       alt="Me"
                       className="w-10 h-10 rounded-full"
                     />
